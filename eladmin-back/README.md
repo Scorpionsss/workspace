@@ -88,8 +88,3 @@
  <td><img src="https://i.loli.net/2019/05/18/5cdf78969adc389599.png"/></td>
     </tr>
 </table>
-
-#### 项目捐赠
-项目的发展离不开你的支持，请作者喝杯咖啡吧☕  [Donate](https://docs.auauz.net/#/jz)
-#### 反馈交流
-- QQ交流群：891137268
